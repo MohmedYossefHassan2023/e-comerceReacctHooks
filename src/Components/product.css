@@ -1,0 +1,8 @@
+.card{
+    flex: 1;
+    display: flex;
+}
+.card-img-top{
+    width: 80px;
+
+}
